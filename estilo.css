@@ -1,9 +1,11 @@
 #navegadores {
     color: blue;
 }
-#textoverde {
-    color: green;
-}
+
 #textorojo {
     color: red;
 }
+p {
+ 
+    color: green;
+  }
